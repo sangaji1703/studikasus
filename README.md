@@ -2,6 +2,7 @@
 
 Nama : Sangaji
 Nim : 19.11.2730
+
 Aplikasi sederhana untuk kasir
 
 # Fitur
